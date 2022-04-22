@@ -1,7 +1,8 @@
          
 <img src='https://media.giphy.com/media/f8tzs6znwcZGHv1XvT/giphy.gif' alt='' height='100px' width='100px' align ='left'/>
-																				 																														 
-<h1 align ='center'>   I'm Shruti Shende </h1>
+																				 																			
+													
+<h1 align ='center'>Hey, I'm Shruti Shende </h1>
   
 <img alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" height="270" align='right' />
   <br/>
