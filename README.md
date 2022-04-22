@@ -6,7 +6,7 @@
   
 <img alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" height="270" align='right' />
   <br/>
-
+<!--<img src="https://komarev.com/ghpvc/?username=shrutishende&label=Profile%20views&color=0e75b6&style=flat" />-->
 
   
   - :seedling: I’m currently working on ReactJs Projects to improve my skills.
