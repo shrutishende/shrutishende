@@ -15,9 +15,9 @@
  
 - 🤔 I’m looking for an internship/job.
   
-- Show ❤ by giving ⭐ to my Repositories, at least your star could make someone's day 😄.
-
-	----
+<!--- Show ❤ by giving ⭐ to my Repositories, at least your star could make someone's day 😄.]-->
+<br>
+	
 
 <h3>Connect with me:</h3>
 <p align="left">
@@ -30,7 +30,7 @@
   <a href="https://instagram.com/_shruti.shende_" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="_shruti.shende_" height="30" width="40" /></a>
-	<a href='https://mail.google.com/mail/u/0/#inbox'><img align='center'        src='https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/768px-Gmail_icon_%282020%29.svg.png?20201210105308' 
+	<a href='mailto:shrutishende11@gmail.com'><img align='center'        src='https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/768px-Gmail_icon_%282020%29.svg.png?20201210105308' 
 		alt=''				 height='30' width='40'/>	</a>
 
 </p>
@@ -71,7 +71,7 @@ Last Edited on: 23/04/2022
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Anton&size=25&color=FFF14D&lines=Thanks+For+Visiting+!)](https://git.io/typing-svg)
 
-<h4 align="center">Made with ❤️ by Me</h4>
+<h4 align="center">Made with ❤️ by Shruti</h4>
   
 <!--
 **shrutishende/shrutishende** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
