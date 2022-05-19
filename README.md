@@ -13,7 +13,9 @@
   
 - :computer: I am creatively curious and a self learner. I love exploring new technologies and learning new skills.
  
-- 🤔 I’m looking for an internship/job.
+- 🤔 I’m looking for an internship / job.
+
+- https://shrutishende.in
   
 <!--- Show ❤ by giving ⭐ to my Repositories, at least your star could make someone's day 😄.]-->
 <br>
