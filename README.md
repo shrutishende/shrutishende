@@ -1,24 +1,25 @@
-         
-<img src='https://media.giphy.com/media/f8tzs6znwcZGHv1XvT/giphy.gif' alt='' height='100px' width='100px' align ='left'/>
-																				 																			
-													
+   <img src='https://media.giphy.com/media/f8tzs6znwcZGHv1XvT/giphy.gif' alt='' height='100px' width='100px' align ='left'/>
+												
 <h1 align ='center'>Hey, I'm Shruti Shende </h1>
   
-<img alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" height="270" align='right' />
-  <br/>
-<!--<img src="https://komarev.com/ghpvc/?username=shrutishende&label=Profile%20views&color=0e75b6&style=flat" />-->
-
-  
+<div align ='center'>
+ <img alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" height="250" /></div>
+ 
+ 
+ 
   - :seedling: I’m currently working on ReactJs Projects to improve my skills.
   
 - :computer: I am creatively curious and a self learner. I love exploring new technologies and learning new skills.
- 
+	
 - 🤔 I’m looking for an internship / job.
 
 - https://shrutishende.in
+
+  
+
   
 <!--- Show ❤ by giving ⭐ to my Repositories, at least your star could make someone's day 😄.]-->
-<br>
+---
 	
 
 <h3>Connect with me:</h3>
