@@ -7,11 +7,11 @@
  
  
  
-  - :seedling: I’m currently working on ReactJs Projects to improve my skills.
+  - :seedling: I’m currently working on React and Nextjs Projects to improve my skills.
   
 - :computer: I am creatively curious and a self learner. I love exploring new technologies and learning new skills.
 	
-- 🤔 I’m looking for an internship / job.
+- 🤔 I’m looking for a job.
 
 - https://shrutishende.in
 
