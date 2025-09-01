@@ -7,11 +7,15 @@
  
  
  
-  - :seedling: I’m currently working on React and Nextjs Projects to improve my skills.
+  - :seedling:I built a dynamic portfolio using React.js to showcase my skills in modern web development
   
 - :computer: I am creatively curious and a self learner. I love exploring new technologies and learning new skills.
+- 
+- Skilled in building responsive UIs with React, Next.js, and TypeScript, with a knack for solving complex problems
 	
-- 🤔 I’m looking for a job.
+- 🤔 I’m seeking opportunities as a Front-End Developer to create user-friendly web experiences
+  
+- Check out my portfolio or connect with me on LinkedIn!
 
 - https://shrutishende.in
 
