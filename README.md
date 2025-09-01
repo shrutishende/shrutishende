@@ -7,10 +7,10 @@
  
  
  
-  - :seedling:I built a dynamic portfolio using React.js to showcase my skills in modern web development
+ - :seedling:I built a dynamic portfolio using React.js to showcase my skills in modern web development
   
 - :computer: I am creatively curious and a self learner. I love exploring new technologies and learning new skills.
-- 
+
 - Skilled in building responsive UIs with React, Next.js, and TypeScript, with a knack for solving complex problems
 	
 - 🤔 I’m seeking opportunities as a Front-End Developer to create user-friendly web experiences
